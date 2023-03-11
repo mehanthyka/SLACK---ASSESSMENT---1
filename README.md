@@ -1,6 +1,7 @@
 # SLACK---ASSESSMENT---1
 # Mehanthyka D
 # Register no-212221040105
+```java```
 ## 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
  
  import java.util.Scanner;
